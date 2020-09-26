@@ -1,0 +1,30 @@
+body{
+    background-image: url(img/f.gif);
+    background-attachment: fixed; 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.titulo{
+    color: white;
+    font-size: 45px;
+    font-family: cursive;
+    text-align: center;
+}
+.deco{
+    border-color: white;
+    border-radius: 6px;
+    border-width: 5px;
+}
+.imag{
+    display: block;
+    margin: auto;
+}
+.nanp{
+    color: white;
+    font-family: cursive;
+}
+.tablas{
+width: 100%;
+display: flex;
+justify-content: center;
+}
